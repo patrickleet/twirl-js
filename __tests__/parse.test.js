@@ -62,6 +62,6 @@ test(
       background-color: blue
       text-align: center
     `,
-    obj: { 'background-color': 'blue', 'text-align': 'center' }
+    obj: { 'backgroundColor': 'blue', 'textAlign': 'center' }
   })
 )

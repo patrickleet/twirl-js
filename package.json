@@ -46,5 +46,8 @@
     "coverage": "nyc -a npm test",
     "prepare": "npm run build && npm run test",
     "release": "npm version patch && npm publish"
- }
+  },
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
 }
